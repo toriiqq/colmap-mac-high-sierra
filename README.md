@@ -1,5 +1,5 @@
 # colmap-mac-high-sierra
-how to setup colmap-cuda on macOS high sierra
+This is how to setup colmap-cuda on macOS high sierra.
 
 ## Mac, OS and GPU
 macbook pro 13-inch, 2016, four thunderbolt 3 ports  
